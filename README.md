@@ -1,5 +1,5 @@
 # Task2
-# Exploratory data analysis
+Exploratory data analysis<br>
 Used  Pandas, Matplotlib, Seaborn, Plotly<br>
 Statistics summary<br>
 Histograms and boxplots for numeric features<br>
